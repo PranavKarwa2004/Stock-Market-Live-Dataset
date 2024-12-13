@@ -1,7 +1,5 @@
 # Stock-Market-Live-Dataset
 
-# LSTM-Based Stock Price Prediction
-
 This project uses an LSTM (Long Short-Term Memory) neural network to predict the stock price of Tata Motors based on historical data. The data is fetched from Yahoo Finance, and the model is trained on the `Close` prices over a period from 2010 to 2024.
 
 ---
@@ -103,8 +101,8 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction-lstm.git
-   cd stock-price-prediction-lstm
+   git clone https://github.com/PranavKarwa2004/Stock-Market-Live-Dataset.git
+   cd Stock-Market-Live-Dataset
    ```
 
 2. **Run the Python script**:
