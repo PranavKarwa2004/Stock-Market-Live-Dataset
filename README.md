@@ -121,7 +121,7 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 
 The model predicts future `Close` prices based on historical data. Below is a sample output visualization:
 
-![Stock Price Prediction](assets/stock_price_prediction.png)
+![Stock Price Prediction](Results)
 
 - **Blue Line**: Original Prices
 - **Red Line**: Predicted Prices
